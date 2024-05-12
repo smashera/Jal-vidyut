@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 3. Explore the different views and features.
 
-## Technologies
+## Technologies Used
 
 - Node.js
 - Express.js
